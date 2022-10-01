@@ -45,9 +45,9 @@ class Run extends StatelessWidget {
   }
 }
 
-//Change or lock device orientation
-// void main() {
-//     WidgetsFlutterBinding.ensureInitialized();
-//     SystemChrome.setPreferredOrientations([DeviceOrientation.landscapeLeft]);
-//     runApp(MaterialApp(home: Run()));
-// }
+Change or lock device orientation
+void main() {
+    WidgetsFlutterBinding.ensureInitialized();
+    SystemChrome.setPreferredOrientations([DeviceOrientation.portraitUp]);
+    runApp(MaterialApp(home: Run()));
+}
