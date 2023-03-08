@@ -1,6 +1,6 @@
-# seminar_mediaquery
+# Media Query Widget seminar 
 
-Seminar On MediaQuery
+Done a seminar On MediaQuery widget durimng the flutter course at Luminar Technolab, Kochi
 
 ## Getting Started
 
